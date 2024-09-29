@@ -1,5 +1,5 @@
 git
 bash
 c
-python
 netcat
+python
